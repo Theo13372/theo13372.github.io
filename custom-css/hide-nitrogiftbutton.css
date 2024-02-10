@@ -1,4 +1,0 @@
-* Hide Nitro gift button */
-button[aria-label="Ein Geschenk senden"] {
-    display: none;
-}
