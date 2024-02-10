@@ -1,0 +1,10 @@
+/* Hide Nitro gift button */
+button[aria-label="Ein Geschenk senden"] {
+    display: none;
+}
+
+/* Hide sticker picker button */
+button[aria-label="Stickerauswahl öffnen"] {
+    display: none;
+}
+/*END*/
