@@ -1,0 +1,16 @@
+/* Fix the status changer popout */
+
+div[class="submenu_acf564 menu_dc52c6"] {
+  backdrop-filter: blur(25px);
+}
+
+/* Optionally remove the separator from the submenu (also removes from other sub menus as well) */
+/* Comment out to add the separator back to sub menus. */
+.separator__18122 {
+  display: none;
+}
+
+.description_ea6680 {
+  display: none;
+}
+/*END*/
