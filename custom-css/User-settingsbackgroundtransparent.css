@@ -1,0 +1,13 @@
+/*Make User Settings background transparent*/
+.theme-dark .sidebarRegion-1VBisG {
+    background: transparent !important;
+}
+.theme-light .sidebarRegion-1VBisG {
+    background: transparent !important;
+}
+:root {
+  /*settings modal root*/
+  --themelightsettingsmodalbackground: transparent !important;
+  --themedarksettingsmodalbackground: transparent !important;
+}
+/*END*/
