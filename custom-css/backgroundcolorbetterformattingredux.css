@@ -1,0 +1,5 @@
+/*Change the background color of the BetterFormattingRedux plugin bar*/
+.theme-dark .bf-toolbar::before {
+background:#18191b79 !important;
+}
+/*END*/
