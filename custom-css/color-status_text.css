@@ -1,3 +1,5 @@
+/* Color the status text in the status changer popout */
+
 div[class="item__183e8 colorDefault__0b482"][id="account-status-picker--online"] > div[class="statusItem__72404"] > div[class="status__8c19b"] {
   color: var(--rs-online-color);
 }
@@ -13,3 +15,4 @@ div[class="item__183e8 colorDefault__0b482"][id="account-status-picker--dnd"] > 
 div[class="item__183e8 colorDefault__0b482"][id="account-status-picker--invisible"] > div[class="statusItem__72404"] > div[class="status__8c19b"] {
   color: var(--rs-invisible-color);
 }
+/*END*/
