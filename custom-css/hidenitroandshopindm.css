@@ -1,5 +1,5 @@
 /* hide nitro and shop tabs in DMs */
-.content__01e65 .buttons__7ecff > .button__581d0[href="/shop"],
+.channel_c21703 .linkButton_ebd2ba > .link__2e8e1[href="/shop"],
 .channel_c21703 .linkButton_ebd2ba > .link__2e8e1[href="/store"] {
   display: none;
 }
