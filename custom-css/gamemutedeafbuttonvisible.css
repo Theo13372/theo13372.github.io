@@ -1,5 +1,4 @@
 /* Makes the Game-, Mute-, Deafbutton visible */
-.panels__58331 > .container_ca50b9 .flex_f5fbb7 > :not(:last-child) {
+.panels__58331 > .container_debb33 .flex_f18b02 > :not(:last-child) {
     opacity: 100% !important; /* quick fix for always visible. */
 }
-/*END*/
